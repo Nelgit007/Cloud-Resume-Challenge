@@ -1,4 +1,4 @@
-name: Upload Website Update
+name: Upload Website Updates
 
 on:
   push:
